@@ -1,0 +1,8 @@
+O padrão Template Method estabelece que as classes com métodos e atributos semelhantes compartilhem uma estrutura declarativa, possuindo métodos já implementados.
+Estes métodos podem ser sobreescritos nas subclasses conforme necessário. As classes AbstractList, AbstractSet e AbstractMap são todas subclasses da AbstractCollection, herdando suas características e adaptando-as conforme as necessidades específicas de cada uma.
+
+
+
+
+
+

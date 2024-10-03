@@ -1,0 +1,2 @@
+O padrão mais adequado para resolver este problema é o Strategy, pois o principal requesito é poder selecionar e alternar entre diferentes algoritmos de ordenação de forma eficiente, dependendo das necessidades em tempo de execução
+O padrão strategy permite resolver uma mesma tarefa de forma diferente, a partir de uma interface comum
